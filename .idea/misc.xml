@@ -7,7 +7,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/01-rest-web-service/pom.xml" />
         <option value="$PROJECT_DIR$/02-consume-rest-service/pom.xml" />
-        <option value="$PROJECT_DIR$/03-access-data-with-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/03-rest-with-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/04-hypermedia-driven-rest-service/pom.xml" />
+        <option value="$PROJECT_DIR$/05-jpa-with-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/06-access-data-with-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/07-access-data-with-jdbc/pom.xml" />
       </list>
     </option>
   </component>
