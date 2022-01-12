@@ -13,6 +13,7 @@
         <module name="05-jpa-with-rest" />
         <module name="07-access-data-with-jdbc" />
         <module name="02-consume-rest-service" />
+        <module name="08-basic-spring-security" />
         <module name="03-rest-with-actuator" />
       </profile>
     </annotationProcessing>
@@ -30,6 +31,7 @@
       <module name="05-jpa-with-rest" options="-parameters" />
       <module name="06-access-data-with-jpa" options="-parameters" />
       <module name="07-access-data-with-jdbc" options="-parameters" />
+      <module name="08-basic-spring-security" options="-parameters" />
     </option>
   </component>
 </project>

@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/05-jpa-with-rest/pom.xml" />
         <option value="$PROJECT_DIR$/06-access-data-with-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/07-access-data-with-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/08-basic-spring-security/pom.xml" />
       </list>
     </option>
   </component>

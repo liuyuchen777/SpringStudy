@@ -7,6 +7,8 @@ This project contain all the useful examples from official documents for learnin
 
 All examples are organized by categories.
 
+[Spring Guide & Tutorial](https://spring.io/guides)
+
 ## Modules
 
 Each module contain an full and able to run Spring application.
@@ -32,3 +34,7 @@ Spring Data Program contains different modules for data access.
 
 ### Security
 
+[Spring Security Topical Guide](https://spring.io/guides/topicals/spring-security-architecture/)
+
+- 08 Basic Security in Spring: authentication (who are you?) and authorization/access control (what are you allowed to do?)
+- 09 Spring Boot with OAuth2
