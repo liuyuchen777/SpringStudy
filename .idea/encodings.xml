@@ -10,5 +10,8 @@
     <file url="file://$PROJECT_DIR$/06-access-data-with-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-access-data-with-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-basic-spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-security-with-oauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-security-with-database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-with-docker/src/main/java" charset="UTF-8" />
   </component>
 </project>

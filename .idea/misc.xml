@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/06-access-data-with-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/07-access-data-with-jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/08-basic-spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/10-security-with-database/pom.xml" />
+        <option value="$PROJECT_DIR$/09-security-with-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/11-spring-with-docker/pom.xml" />
       </list>
     </option>
   </component>

@@ -11,7 +11,7 @@ All examples are organized by categories.
 
 ## Modules
 
-Each module contain an full and able to run Spring application.
+Each module contain a self-contain and able to run Spring application.
 
 ### RESTful Application
 
@@ -36,5 +36,28 @@ Spring Data Program contains different modules for data access.
 
 [Spring Security Topical Guide](https://spring.io/guides/topicals/spring-security-architecture/)
 
-- 08 Basic Security in Spring: authentication (who are you?) and authorization/access control (what are you allowed to do?)
-- 09 Spring Boot with OAuth2
+- [08 Basic Security in Spring](https://spring.io/guides/gs/securing-web/): authentication (who are you?) and authorization/access control (what are you allowed to do?)
+- [09 Spring Boot with OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/): sample app with "social login"
+- 10 Spring Security with MySQL: store username and password in MySQL database with encryption
+
+Note: in module 09 you need to create a new `application.yaml` with following form:
+
+```yaml
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: github-client-id
+            clientSecret: github-client-secret
+          google:
+            client-id: google-client-id
+            client-secret: google-client-secret
+```
+
+### Deployment
+
+[Docker Reference Doc](https://docs.docker.com/reference/)
+
+- 11 [Spring Boot Docker](https://spring.io/guides/topicals/spring-boot-docker/): Basic tutorial for using docker in Spring Boot Application
